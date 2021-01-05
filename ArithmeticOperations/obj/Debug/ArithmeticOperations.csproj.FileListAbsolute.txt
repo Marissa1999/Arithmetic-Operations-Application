@@ -1,0 +1,7 @@
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csprojAssemblyReference.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
